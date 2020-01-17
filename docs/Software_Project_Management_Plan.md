@@ -325,7 +325,7 @@ The following procedure is to be used when making changes to all baselined work 
 
 The test plan defines the items that will be tested, methods for testing, and a schedule detailing the tasks, owners, and time line.
 
-The test plan will be available in a separate document in the version control system at: http://134.193.128.7/svn/cs451/branches/team1/Team1\_Test\_Plan.doc
+The test plan will be available in a separate document in the version control system at: https://github.com/BryanImaralu/2020_5bi_team2_Imaralu
 
 ## 5.3Product Acceptance Plan
 
