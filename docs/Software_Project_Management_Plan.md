@@ -49,7 +49,7 @@ Change History
 
 Document Storage
 
-This document is stored in the project&#39;s SVN repository at: http://134.193.128.7/svn/cs451/branches/team1/Team1\_SPMP.doc
+This document is stored in the project&#39;s SVN repository at: https://github.com/BryanImaralu/2020_5bi_team2_Imaralu
 
 Document Owner
 
