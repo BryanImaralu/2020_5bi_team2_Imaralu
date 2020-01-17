@@ -1,0 +1,11 @@
+site_name: 2020_5BI_Team6
+
+nav:
+    - 'Project Charter': 'Project Charter.md'
+    - 'Software Requirements Specification': 'Software Requirements Specification.md'
+    - 'Software Project Management Plan': 'Software Project Management Plan.md'
+   
+    
+theme:
+    name: readthedocs
+
