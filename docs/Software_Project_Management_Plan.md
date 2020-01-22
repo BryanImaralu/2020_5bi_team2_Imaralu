@@ -117,9 +117,9 @@ Bryan Imaralu is responsible for developing and maintaining this document.
 
 5.3 Product Acceptance Plan        13
 
-# 1Overview
+# 1 Overview
 
-## 1.1Purpose and Scope
+## 1.1 Purpose and Scope
 
 The Golden Boys Team is interested in creating a mobile application that will be useful for chatting with people by giving them the possibility to send and receive messages, send broadcast messages and more.
 
@@ -160,13 +160,13 @@ Project Objectives:
 | 12/02/10 | User Guide and System Administration Manual |
 | 12/07/10 | Product Released |
 
-## 1.4Assumptions and Constraints
+## 1.4 Assumptions and Constraints
 
-### 1.4.1Assumptions
+### 1.4.1 Assumptions
 
 1. Server is always active.
 
-### 1.4.2Constraints
+### 1.4.2 Constraints
 
 Constraints:
 
@@ -191,9 +191,9 @@ A working app, easy-to-use that allows users to chat with people they want.
 | User | the person or persons who will actually interact with the chat application. |
 | Use case | describes a goal-oriented interaction between the system and an actor. A use case may define several variants called scenarios that result in different paths through the use case and usually different outcomes. |
 
-# 2Startup Plan
+# 2 Startup Plan
 
-## 2.1Team Organization
+## 2.1 Team Organization
 
 | Role |  Actor(s) | Responsibility |
 | --- | --- | --- |
@@ -204,27 +204,27 @@ A working app, easy-to-use that allows users to chat with people they want.
 | Architect | Edoardo Gruia | Specify overall internal workings of application |
 | Requirement Engineer | Bryan Imaralu | Outline and document project dependencies and requirements. This includes internal and external dependencies. |
 
-## 2.2Project Communications
+## 2.2 Project Communications
 
 | Event | Information | Audience | Format | Frequency |
 | --- | --- | --- | --- | --- |
 | Team Meeting | Activity status: work in progress;obstacles encountered; manage incoming messages and broadcast lists | All team members | Informal meetings after class; Formal meetings as needed; Updates on application status problems when they occur | Once time a week |
 | Project Status Report | Review finished items, status of prototype; review any problems, schedule slippage, programming issues | All team members, costumer | E-mail with information or In-person as customer sees fit  | Iteration Closeout |
 
-## 2.3Technical Process
+## 2.3 Technical Process
 
 An iterative and incremental development process is planned.  Feedback will be used from each iteration to improve the next.  The first iteration will focus on basic functionality of the application.  Subsequent iterations will build upon that and incorporate more features.
 
-## 2.4Tools
+## 2.4 Tools
 
 - .Programming - Python
 - .Version Control – all work products will be stored in an repository
 
-# 3Work Plan
+# 3 Work Plan
 
-## 3.1Release Plan
+## 3.1 Release Plan
 
-### 3.1.1Plan By Feature
+### 3.1.1 Plan By Feature
 
  Iteration #1
 
@@ -251,25 +251,25 @@ Iteration #3
 | --- | --- | --- |
 | Group chat | 75 |   |
 
-## 3.2Iteration Plans
+## 3.2 Iteration Plans
 
-## 3.2A detailed iteration plan will be provided for Iteration 1.
+## 3.2 A detailed iteration plan will be provided for Iteration 1.
 
-### 3.2.1First Iteration
+### 3.2.1 First Iteration
 
 The server interface works both with the iOS application and the Android one.
 
-### 3.2.2Second Iteration
+### 3.2.2 Second Iteration
 
-### 3.2.3Mobile iOS application gives user the ability to see their chat.
+### 3.2.3 Mobile iOS application gives user the ability to see their chat.
 
-### 3.2.4Final Product
+### 3.2.4 Final Product
 
 The server interfaces with the application. The mobile application interfaces with the server, giving users the ability to chat.
 
-# 4Control Plan
+# 4 Control Plan
 
-## 4.1Monitoring and Control
+## 4.1 Monitoring and Control
 
 The following list of dates includes formal reviews outside of the Communication Plan.  Milestones are included to reference where the project is scheduled to stand as these reviews occur:
 
@@ -285,7 +285,7 @@ The following list of dates includes formal reviews outside of the Communication
 | 12/07/2019 | Milestone: Product Released |
 | 12/09/2019 | Final Presentations |
 
-## 4.2Configuration Management Plan
+## 4.2 Configuration Management Plan
 
 The following procedure is to be used when making changes to all baselined work products:
 
@@ -302,9 +302,9 @@ The following procedure is to be used when making changes to all baselined work 
 1. (3)if anyone does object to the change, the reason for objecting will be discussed at a meeting where everyone is invited to attend and voice their opinion. At the end of the meeting a democratic vote will be held to decide whether or not the change should be allowed.
 2. (4)if a change takes place, the initiator must collaborate with the project manager to update the schedule.
 
-# 5Supporting Process Plans
+# 5 Supporting Process Plans
 
-## 5.1Risk Management Plan
+## 5.1 Risk Management Plan
 
 | Rank | Risk | Probability of Loss | Size of Loss | Risk Exposure | Response |
 | --- | --- | --- | --- | --- | --- |
@@ -313,13 +313,13 @@ The following procedure is to be used when making changes to all baselined work 
 | 3 | Learning curve for new tools and technologies longer than expected | Unlikely | Moderate | Moderate | Buy Information: Begin working on a basic prototype early to test out fundamental programming concepts &amp; knowledge |
 | 4 | Data feed not available from the server | Unlikely | Minor | Low | Avoid: instead of using a feed from the server, it depends on access to the app and extracts the information requested from users who use the application. |
 
-## 5.2Test Plan
+## 5.2 Test Plan
 
 The test plan defines the items that will be tested, methods for testing, and a schedule detailing the tasks, owners, and time line.
 
 The test plan will be available in a separate document in the version control system at: https://github.com/BryanImaralu/2020_5bi_team2_Imaralu
 
-## 5.3Product Acceptance Plan
+## 5.3 Product Acceptance Plan
 
 At the end of each iteration, the prototype created will be tested to ensure that it meets the requirements of that iteration. An environment like the iPhone simulator and the Android simulator can be used to test the functionality instead of the app loaded on a real smartphone.
 
