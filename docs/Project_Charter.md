@@ -21,4 +21,4 @@
 Project Manager ****
 Project Sponsor ****
 Customer ****
-Technical Lead** |
+Technical Lead**
