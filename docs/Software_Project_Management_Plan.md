@@ -129,7 +129,7 @@ The application will be created for use on a mobile device with an iOS and andro
 
 The user interface will be intuitive and simple to use, with 95% of new users being able to use the application without referencing the user manual.
 
-## 1.2Goals and Objectives
+## 1.2 Goals and Objectives
 
 The overall objective is to offer a useful and simple app to use for messaging with people.
 
@@ -144,7 +144,7 @@ Project Objectives:
 
 
 
-## 1.3Project Deliverables
+## 1.3 Project Deliverables
 
 | Date | Deliverable |
 | --- | --- |
@@ -172,11 +172,11 @@ Constraints:
 
 1. The application will run on an every devices.
 
-## 1.5Success Criteria
+## 1.5 Success Criteria
 
 A working app, easy-to-use that allows users to chat with people they want.
 
-## 1.6Definitions
+## 1.6 Definitions
 
 | Term | Definition |
 | --- | --- |
