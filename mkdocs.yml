@@ -4,6 +4,7 @@ nav:
     - 'Project Charter': 'Project_Charter.md'
     - 'Software Requirements Specification': 'software_requirements_specification.md'
     - 'Software Project Management Plan': 'Software_Project_Management_Plan.md'
+    - 'Project Model': 'Project_Model.pdf'
    
     
 theme:
