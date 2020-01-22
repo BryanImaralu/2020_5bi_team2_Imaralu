@@ -1,9 +1,9 @@
 site_name: 2020_5BI_Team6
 
 nav:
-    - 'Project Charter': 'Project Charter.md'
-    - 'Software Requirements Specification': 'software requirements specification.md'
-    - 'Software Project Management Plan': 'Software Project_Management_Plan.md'
+    - 'Project Charter': 'Project_Charter.md'
+    - 'Software Requirements Specification': 'software_requirements_specification.md'
+    - 'Software Project Management Plan': 'Software_Project_Management_Plan.md'
    
     
 theme:
