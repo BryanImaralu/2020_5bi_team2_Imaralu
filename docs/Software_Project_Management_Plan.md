@@ -1,18 +1,10 @@
-#
 
-#
-
-#
-
-#
 
 # Software Project Management Plan
 
-#
 
-#
 
-# Team Golden Boys
+## Team Golden Boys
 
 5 Jenuary, 2020
 
