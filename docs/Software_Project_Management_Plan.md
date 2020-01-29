@@ -18,15 +18,7 @@
 
 Team Members
 
-Bryan Imaralu
-
-Giovanni Gottardi
-
-Nicolò Salaorni
-
-Edoardo Gruia
-
-
+Bryan Imaralu, Giovanni Gottardi,Nicolò Salaorni,Edoardo Gruia
 
 Document Control
 
