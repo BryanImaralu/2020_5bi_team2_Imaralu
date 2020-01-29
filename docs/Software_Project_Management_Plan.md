@@ -169,11 +169,11 @@ Iteration #3
 
 The server interface works both with the iOS application and the Android one.
 
-### 3.2.2 Second Iteration
+### 3.2.2 Mobile iOS application.
 
-### 3.2.3 Mobile iOS application gives user the ability to see their chat.
+Mobile iOS application gives user the ability to see their chat.
 
-### 3.2.4 Final Product
+### 3.2.3 Final Product
 
 The server interfaces with the application. The mobile application interfaces with the server, giving users the ability to chat.
 
