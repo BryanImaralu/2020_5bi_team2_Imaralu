@@ -78,7 +78,7 @@ Minimum requirements will be as follows:
 - KEYBOARD: 101 key
 
 ## 2.3 Use Case Diagram
-![Use case Diagram]( https://github.com/BryanImaralu/2020_5bi_team2_Imaralu/blob/master/img/usecasediagram.png "Use Case Diagram")
+![](/img/usecasediagram.png)
 
 This use case model how client interacts with the server and start getting communicating with other clients.
 
@@ -97,5 +97,5 @@ This use case model how client interacts with the server and start getting commu
 ![](/img/dataflowdiagram.png)
 
 ## 2.8 E-R Diagram
-![Use case Diagram](https://github.com/BryanImaralu/2020_5bi_team2_Imaralu/blob/master/img/er_diagram.png "E-R Diagram")
+![](/img/er_diagram.png)
 
