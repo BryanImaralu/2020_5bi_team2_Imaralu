@@ -36,7 +36,7 @@ A risk was the time, that we were afraid about it and now is not a problem.
 
 | **Stakeholder** | **Sign** |
 | --------------- | ----------|
-| **Project Manager** | _____________________________ |
-| **Project Sponsor** | _____________________________ |
+| **Project Manager** | ____________________________________ |
+| **Project Sponsor** | ____________________________________ |
 | **Customer** | ____________________________________ |
-| **Technical Lead** | ______________________________ |
+| **Technical Lead** | ____________________________________ |
