@@ -98,8 +98,8 @@ Minimum requirements will be as follows:
 - KEYBOARD: 101 key
 
 ## 2.3 Use Case Diagram
-![This use case model how client interacts with the server and start getting communicating with other clients.](/../img/usecasediagram.png)
-
+![](/../img/usecasediagram.png)
+This use case model how client interacts with the server and start getting communicating with other clients.
 
 ## 2.4 Software Interface
 -	Notepad++ is a text editor and source code editor and provides an environment for developing HTML, jsp, JavaScript many other editing purposes. 
