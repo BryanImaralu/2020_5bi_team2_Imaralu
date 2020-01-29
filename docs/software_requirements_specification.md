@@ -4,9 +4,6 @@
 
 # Team 2
 
-# September 23, 2010
-
-
 
 
 
