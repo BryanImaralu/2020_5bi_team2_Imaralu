@@ -54,10 +54,10 @@ There are numerous products available that allow for real time &quot;chatting&qu
 
 ## 1.2 Problems Introduction
 
-- .This project is to create a chat application with a server and clients to enable the clients to chat with many other clients in the same common chat group.
-- .This project is to simulate the multicast chatting. In the case of multicasting when a message is sent to a group of clients, then only a single message is sent to the router.
-- .The main purpose of this project is to provide multi chatting functionality through network.
-- .This project can play an important role in organizational field where employees can connect together through LAN.
+- This project is to create a chat application with a server and clients to enable the clients to chat with many other clients in the same common chat group.
+- This project is to simulate the multicast chatting. In the case of multicasting when a message is sent to a group of clients, then only a single message is sent to the router.
+- The main purpose of this project is to provide multi chatting functionality through network.
+- This project can play an important role in organizational field where employees can connect together through LAN.
 
 ## 1.3 Scope
 
@@ -98,6 +98,7 @@ Minimum requirements will be as follows:
 - KEYBOARD: 101 key
 
 ## 2.3 Use Case Diagram
+![This use case model how client interacts with the server and start getting communicating with other clients.](/../img/usecasediagram.png)
 
 
 ## 2.4 Software Interface
