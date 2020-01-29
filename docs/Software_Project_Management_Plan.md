@@ -163,8 +163,6 @@ Iteration #3
 
 ## 3.2 Iteration Plans
 
-## 3.2 A detailed iteration plan will be provided for Iteration 1.
-
 ### 3.2.1 First Iteration
 
 The server interface works both with the iOS application and the Android one.
