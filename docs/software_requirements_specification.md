@@ -24,22 +24,7 @@
 
 
 
-| Table of Contents |
-| --- |
-| 1        Introduction        |
-| 1.1        Overview        |
-| 1.2        Problems Introduction        |
-| 1.3        Scope        |
-| 1.4        Project Perspective        |
-| 2        General Design Constraints        |
-| 2.1        Interface        |
-| 2.2        Hardware Interface        |
-| 2.3        Use Case Diagram        |
-| 2.4        Software Interface        |
-| 2.5        Mandated Constraints |
-| 2.6        Assumption and dependencies|
-| 2.7        Data Flow Diagram|
-| 2.8        E-R Diagram |
+
 
 # 1 Introduction
 
