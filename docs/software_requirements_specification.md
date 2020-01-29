@@ -94,7 +94,7 @@ This use case model how client interacts with the server and start getting commu
 - Clients should know each other. 
 - There can be multiple clients.
 ## 2.7 Data Flow Diagram
-![Use case Diagram](https://github.com/BryanImaralu/2020_5bi_team2_Imaralu/blob/master/img/dataflowdiagram.png "Data Flow Diagram")
+![Use case Diagram](img/dataflowdiagram.png "Data Flow Diagram")
 
 ## 2.8 E-R Diagram
 ![Use case Diagram](https://github.com/BryanImaralu/2020_5bi_team2_Imaralu/blob/master/img/er_diagram.png "E-R Diagram")
