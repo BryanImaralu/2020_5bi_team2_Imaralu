@@ -1,8 +1,4 @@
-# Software Requirements Specification
-
-# For
-
-# Team 2
+# Software Requirements Specification For Team 2
 
 
 
