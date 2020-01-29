@@ -99,7 +99,7 @@ This use case model how client interacts with the server and start getting commu
 
 ## 2.4 Software Interface
 -	Notepad++ is a text editor and source code editor and provides an environment for developing HTML, jsp, JavaScript many other editing purposes. 
--Coding done in java so required JDK 8.0 and above for run java programs. Operating system (such as window 7, 8, xp, Linux etc).
+- Coding done in java so required JDK 8.0 and above for run java programs. Operating system (such as window 7, 8, xp, Linux etc).
 
 ## 2.5 Mandated Constraints
 - The application does not by any means open the web browser. If user wishes to open the web browser he must open it externally. 
