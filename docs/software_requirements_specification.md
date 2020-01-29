@@ -74,28 +74,48 @@ There are numerous products available that allow for real time &quot;chatting&qu
 
 ## 1.4 Project Perspective
 
-- .The system to be developed here is an Chat facility. It is a centralized system. It is Client-Server system with centralized database server. All local clients are connected to the centralized server via LAN.
-- .There is a two way communication between different clients and server. This chat application can be used for group discussion. It allows users to find other logged in users.
-- . **No need of Internet connection:** Existing system requires Internet connection; whereas in the proposed system only Intranet connection i.e. only a LAN connection is required. This system is useful for those who can not afford to have an Internet connection. For example: schools, colleges, small companies, etc.
-- . **Conference possible on LAN:** Usually on LANs connections conferencing is not possible. The proposed system allows the LAN users to create and participate in conference. This makes communications possible among number of LAN users simultaneously.
+- The system to be developed here is an Chat facility. It is a centralized system. It is Client-Server system with centralized database server. All local clients are connected to the centralized server via LAN.
+- There is a two way communication between different clients and server. This chat application can be used for group discussion. It allows users to find other logged in users.
+-  **No need of Internet connection:** Existing system requires Internet connection; whereas in the proposed system only Intranet connection i.e. only a LAN connection is required. This system is useful for those who can not afford to have an Internet connection. For example: schools, colleges, small companies, etc.
+-  **Conference possible on LAN:** Usually on LANs connections conferencing is not possible. The proposed system allows the LAN users to create and participate in conference. This makes communications possible among number of LAN users simultaneously.
 
 # 2 General Design Constraints
 
 ## 2.1 Interface
 
-- .This application interacts with the user through G.U.I. The interface is simple , easy to handle and self-explanatory.
-- .Once opened, user will easily come into the flow with the application and easily uses all interfaces properly.
-- .However the basic interface available in our application is
-  - . Title panel
-  - .Content panel
-  - .Admin panel. Keyboard
+- This application interacts with the user through G.U.I. The interface is simple , easy to handle and self-explanatory.
+- Once opened, user will easily come into the flow with the application and easily uses all interfaces properly.
+- However the basic interface available in our application is
+  -  Title panel
+  - Content panel
+  - Admin panel. Keyboard
 
 ## 2.2 Hardware Interface
 
 Minimum requirements will be as follows:
 
-- .4 GB RAM required.
-- .Processor with speed of 3,5Ghz.
-- .Internet or LAN connection.
-- .MOUSE: 2 or 3 button mouse
-- .KEYBOARD: 101 key
+- 4 GB RAM required.
+- Processor with speed of 3,5Ghz.
+- Internet or LAN connection.
+- MOUSE: 2 or 3 button mouse
+- KEYBOARD: 101 key
+
+## 2.3 Use Case Diagram
+
+
+## 2.4 Software Interface
+-	Notepad++ is a text editor and source code editor and provides an environment for developing HTML, jsp, JavaScript many other editing purposes. 
+-Coding done in java so required JDK 8.0 and above for run java programs. Operating system (such as window 7, 8, xp, Linux etc).
+
+## 2.5 Mandated Constraints
+- The application does not by any means open the web browser. If user wishes to open the web browser he must open it externally. 
+- The system need to be permanent connected with internet.
+## 2.6	Assumption and dependencies
+-	There should be LAN or internet connection. 
+- Clients should know each other. 
+- There can be multiple clients.
+## 2.7 Data Flow Diagram
+
+
+## 2.8 E-R Diagram
+
