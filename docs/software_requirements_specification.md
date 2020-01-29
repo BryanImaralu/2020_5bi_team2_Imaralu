@@ -98,7 +98,7 @@ Minimum requirements will be as follows:
 - KEYBOARD: 101 key
 
 ## 2.3 Use Case Diagram
-![](/../img/usecasediagram.png)
+[Use case Diagram]: https://github.com/BryanImaralu/2020_5bi_team2_Imaralu/blob/master/img/usecasediagram.png "Use Case Diagram"
 This use case model how client interacts with the server and start getting communicating with other clients.
 
 ## 2.4 Software Interface
