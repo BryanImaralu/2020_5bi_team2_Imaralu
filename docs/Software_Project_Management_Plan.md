@@ -8,35 +8,24 @@
 
 5 Jenuary, 2020
 
-
-
-
-
-
-
-
-
 Team Members
 
 Bryan Imaralu, Giovanni Gottardi, Nicolò Salaorni, Edoardo Gruia
 
-# Change History
+### Change History
 
 | Revision | Change Date | Description of changes |
 | --- | --- | --- |
 | V1.0 | 05/01/&#39;20 | Initial release |
 |   |   |   |
 
-
-
-Document Storage
+### Document Storage
 
 This document is stored in the project&#39;s SVN repository at: https://github.com/BryanImaralu/2020_5bi_team2_Imaralu
 
-Document Owner
+### Document Owner
 
 Bryan Imaralu is responsible for developing and maintaining this document.
-
 
 # 1 Overview
 
