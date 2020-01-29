@@ -99,6 +99,7 @@ Minimum requirements will be as follows:
 
 ## 2.3 Use Case Diagram
 ![Use case Diagram]( https://github.com/BryanImaralu/2020_5bi_team2_Imaralu/blob/master/img/usecasediagram.png "Use Case Diagram")
+
 This use case model how client interacts with the server and start getting communicating with other clients.
 
 ## 2.4 Software Interface
@@ -116,4 +117,5 @@ This use case model how client interacts with the server and start getting commu
 
 
 ## 2.8 E-R Diagram
+![Use case Diagram](https://github.com/BryanImaralu/2020_5bi_team2_Imaralu/blob/master/img/dataflowdiagram.png "Data Flow Diagram")
 
