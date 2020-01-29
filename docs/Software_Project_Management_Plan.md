@@ -4,7 +4,7 @@
 
 
 
-## Team Golden Boys
+## Team 2
 
 5 Jenuary, 2020
 
@@ -217,8 +217,8 @@ An iterative and incremental development process is planned.  Feedback will be u
 
 ## 2.4 Tools
 
-- .Programming - Python
-- .Version Control – all work products will be stored in an repository
+- Programming - Python
+- Version Control – all work products will be stored in an repository
 
 # 3 Work Plan
 
