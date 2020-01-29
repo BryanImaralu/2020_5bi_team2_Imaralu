@@ -34,9 +34,9 @@ A risk was the time, that we were afraid about it and now is not a problem.
 
 ## Signatures
 
-| **Stackholder** | Sign |
-| --------- | -----------|
-| **Project Manager** |  ____________________________ |
-| **Project Sponsor** |  ____________________________ |
-| **Customer** | ____________________________ |
-| **Technical Lead** |  ____________________________ |
+| **Stackholder** | **Sign** |
+| --------- | ----------------------------------------|
+| **Project Manager** |   |
+| **Project Sponsor** |   |
+| **Customer** |   |
+| **Technical Lead** |   |
