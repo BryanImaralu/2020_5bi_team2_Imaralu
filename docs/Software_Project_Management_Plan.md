@@ -18,11 +18,9 @@
 
 Team Members
 
-Bryan Imaralu, Giovanni Gottardi,Nicolò Salaorni,Edoardo Gruia
+Bryan Imaralu, Giovanni Gottardi, Nicolò Salaorni, Edoardo Gruia
 
-Document Control
-
-Change History
+# Change History
 
 | Revision | Change Date | Description of changes |
 | --- | --- | --- |
@@ -39,75 +37,6 @@ Document Owner
 
 Bryan Imaralu is responsible for developing and maintaining this document.
 
-
-
-# Table of Contents
-
-1 Overview        4
-
-1.1 Purpose and Scope        4
-
-1.2 Goals and Objectives        4
-
-1.3 Project Deliverables        5
-
-1.4 Assumptions and Constraints        5
-
-1.4.1 Assumptions        5
-
-1.4.2 Constraints        5
-
-1.5 Schedule and Budget Summary        6
-
-1.5.1 Cost Estimate        6
-
-1.5.2 Schedule Summary        6
-
-1.6 Success Criteria        7
-
-1.7 Definitions        7
-
-2 Startup Plan        8
-
-2.1 Team Organization        8
-
-2.2 Project Communications        8
-
-2.3 Technical Process        9
-
-2.4 Tools        9
-
-3 Work Plan        9
-
-3.1 Resource Estimate        9
-
-3.2 Release Plan        9
-
-3.2.1 Plan By Feature        9
-
-3.2.2 Flow Chart        10
-
-3.3 Iteration Plans        10
-
-3.3.1 First Iteration        11
-
-3.3.2 Second Iteration        11
-
-3.3.3 Final Product        11
-
-4 Control Plan        11
-
-4.1 Monitoring and Control        11
-
-4.2 Configuration Management Plan        11
-
-5 Supporting Process Plans        12
-
-5.1 Risk Management Plan        12
-
-5.2 Test Plan.........................................................13
-
-5.3 Product Acceptance Plan.........................................................13
 
 # 1 Overview
 
