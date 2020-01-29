@@ -113,9 +113,9 @@ Bryan Imaralu is responsible for developing and maintaining this document.
 
 5.1 Risk Management Plan        12
 
-5.2 Test Plan        13
+5.2 Test Plan.........................................................13
 
-5.3 Product Acceptance Plan        13
+5.3 Product Acceptance Plan.........................................................13
 
 # 1 Overview
 
