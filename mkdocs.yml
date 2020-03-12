@@ -1,4 +1,4 @@
-site_name: 2020_5BI_Team6
+site_name: 2020_5BI_Team2
 
 nav:
     - 'Project Charter': 'Project_Charter.md'
@@ -6,7 +6,7 @@ nav:
     - 'Software Project Management Plan': 'Software_Project_Management_Plan.md'
     - 'Project Model': 'Project_Model.pdf'
     - 'Test Case Specification': 'Test_Case_Specification.md'
-   
+    - 'System Requirements documentation':'documentation_gruia_1.md'
     
 theme:
     name: readthedocs
