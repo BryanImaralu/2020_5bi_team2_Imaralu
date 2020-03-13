@@ -148,9 +148,7 @@ The objectives of this test exercise include researching various user situations
 
 
 
-#
-
-TESTING TASKS
+# TESTING TASKS
 
 Testing tasks for integration and system testing are outlined in the test specification document.
 
