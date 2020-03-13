@@ -5,8 +5,10 @@ nav:
     - 'Software Requirements Specification': 'software_requirements_specification.md'
     - 'Software Project Management Plan': 'Software_Project_Management_Plan.md'
     - 'Project Model': 'Project_Model.pdf'
+    - 'Business Model Canvas': 'business_model_canvas.pdf'
     - 'Test Case Specification': 'Test_Case_Specification.md'
     - 'System Requirements Documentation': 'documentation_gruia_1.md'
+    
     
 theme:
     name: readthedocs
