@@ -17,7 +17,7 @@
 
 
 
-**TABLE OF CONTENTs**
+**TABLE OF CONTENTS**
 
 |   |
 | --- |
