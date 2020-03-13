@@ -93,10 +93,10 @@ User website testing takes place in the integration and system testing phases. D
 
 Test items:
 
-- .Verify user as student
-- .Verify user as tutor
-- .User asks a question
-- .User reads answers to previous questions
+- Verify user as student
+- Verify user as tutor
+- User asks a question
+- User reads answers to previous questions
 
 ## Bulletin Board
 
@@ -106,23 +106,11 @@ System tests will test all aspects of the system and cross-check them with the r
 
 Test items:
 
-- .Provider chooses user question
-- .Tutors and students read and discuss question
-- .Provider rejects student answer
-- .Provider accepts student answer
-- .Provider adds a student user
-
-
-
-
-
-
-
-
-
-
-
-
+- Provider chooses user question
+- Tutors and students read and discuss question
+- Provider rejects student answer
+- Provider accepts student answer
+- Provider adds a student user
 
 
 
@@ -154,11 +142,9 @@ The objectives of this test exercise include researching various user situations
 
 # TEST DELIVERABLES
 
-- .A test plan that delineates the testing phase of the development process
-- .A test specification document detailing steps in the testing procedures
-- .Test reports documenting incidents, defects and changes
-
-
+- A test plan that delineates the testing phase of the development process
+- A test specification document detailing steps in the testing procedures
+- Test reports documenting incidents, defects and changes
 
 
 
@@ -167,11 +153,6 @@ The objectives of this test exercise include researching various user situations
 TESTING TASKS
 
 Testing tasks for integration and system testing are outlined in the test specification document.
-
-
-
-
-
 
 
 
@@ -185,13 +166,9 @@ Testing will occur at each phase of the development process. Test cases are outl
 # REQUIRED RESOURCES
 
 Human resources:  Bryan Imaralu
-
-     Giovanni Gottardi
-
-     Edoardo Gruia
-
-                               Nicolò Salaorni
+                  Giovanni Gottardi
+                  Edoardo Gruia
+                  Nicolò Salaorni
 
 Material: php using Atom for development, Localhost xampp, Microsoft Word (.doc) and WordPad
-
-              (.md) for documentation
+          (.md) for documentation
