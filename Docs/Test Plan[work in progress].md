@@ -13,8 +13,7 @@
 | Version |    Date     |       Author        | Change Description |
 | ------- | ----------- | ------------------- | ------------------ |
 |      1  |   09/03/20  |   Giovanni Gottardi | Draft 1            |
-|   	  |  		|  	              |   		   |
-|   	  |   	        |   	              |   	           |
+
 
 
 
@@ -196,7 +195,7 @@ Human resources:  Bryan Imaralu
 
      Edoardo Gruia
 
-                               Nicolò Salaorni
+                               NicolÃ² Salaorni
 
 Material: php using Atom for development, Localhost xampp, Microsoft Word (.doc) and WordPad
 
