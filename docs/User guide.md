@@ -36,8 +36,7 @@ The Golden Boy PCTO application allows users a simple interface to access compan
 
 1. Enter Goldenpcto.000webhostapp.com in URL bar. The login screen will be brought up.
 
-![](RackMultipart20200416-4-1sj5h06_html_81eda14c9e7bb033.png)
- ![](RackMultipart20200416-4-1sj5h06_html_e049affe59ccaed2.png)
+![login1](https://user-images.githubusercontent.com/57890096/79437407-6f933700-7fd2-11ea-8056-8a5a9694269c.JPG)
 
 1. Enter your Spaggiari credentials.
 
