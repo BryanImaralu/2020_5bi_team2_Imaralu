@@ -59,8 +59,10 @@ The Golden PCTO application can be used with all devices as long as they are con
 2. Enter your Spaggiari credentials.
 3. Tap the Login button.
 4. Search something with the search bar.
+5. Companies that meet the search criteria will be shown.
+6. If you click on the company, you can see its details.
 
-1. Companies that meet the search criteria will be shown.
+![dettagli1](https://user-images.githubusercontent.com/57890096/79438008-41622700-7fd3-11ea-9d7d-2b0f23034e1e.JPG)
 
 # 5 Troubleshooting
 
