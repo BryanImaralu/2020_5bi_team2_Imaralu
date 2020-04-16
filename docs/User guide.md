@@ -18,13 +18,13 @@ Edoardo Gruia
 
 # Contents
 
-Contents..........................2
+Contents..................................2
 
-1 Introduction....................3
+1 Introduction........................3
 
-2 Quick Start Guide...............3
+2 Quick Start Guide...........3
 
-3 System Requirements.............5
+3 System Requirements...5
 
 4 Main Scenarios of Use...........5
 
