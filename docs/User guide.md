@@ -45,7 +45,7 @@ The Golden Boy PCTO application allows users a simple interface to access compan
 1. Tap the Login button.
 2. Every information about companies will be show.
 
-![](RackMultipart20200416-4-1sj5h06_html_fd8eb70095898b3e.png)
+![anagrafica](https://user-images.githubusercontent.com/57890096/79437793-f516e700-7fd2-11ea-8758-d069c40e4725.JPG)
 
 # 3 System Requirements
 
