@@ -40,7 +40,7 @@ The Golden Boy PCTO application allows users a simple interface to access compan
 
 1. Enter your Spaggiari credentials.
 
-![](RackMultipart20200416-4-1sj5h06_html_3aa4d32b669c3272.png)
+![login2](https://user-images.githubusercontent.com/57890096/79437643-c731a280-7fd2-11ea-9df9-c4f5be9d2766.JPG)
 
 1. Tap the Login button.
 2. Every information about companies will be show.
