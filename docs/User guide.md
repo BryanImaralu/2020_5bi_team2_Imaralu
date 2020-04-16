@@ -22,11 +22,11 @@ Contents..................................2
 
 1 Introduction........................3
 
-2 Quick Start Guide...........3
+2 Quick Start Guide..............3
 
-3 System Requirements...5
+3 System Requirements......5
 
-4 Main Scenarios of Use...........5
+4 Main Scenarios of Use........5
 
 5 Troubleshooting.................7
 
