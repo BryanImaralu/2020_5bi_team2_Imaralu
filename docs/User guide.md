@@ -12,25 +12,23 @@ Bryan Imaralu
 
 Giovanni Gottardi
 
-Nicolò Salaorni
+NicolÃ² Salaorni
 
 Edoardo Gruia
 
 # Contents
 
-Contents 2
+Contents..........................2
 
-1 Introduction 3
+1 Introduction....................3
 
-2 Quick Start Guide 3
+2 Quick Start Guide...............3
 
-3 System Requirements 5
+3 System Requirements.............5
 
-4 Main Scenarios of Use 5
+4 Main Scenarios of Use...........5
 
-5 Troubleshooting
-
-7
+5 Troubleshooting.................7
 
 # 1Introduction
 
