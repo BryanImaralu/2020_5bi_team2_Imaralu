@@ -26,7 +26,7 @@ Contents..................................2
 
 3 System Requirements......5
 
-4 Main Scenarios of Use........5
+4 Main Scenarios of Use....5
 
 5 Troubleshooting.................7
 
