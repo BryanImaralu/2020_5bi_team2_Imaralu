@@ -58,11 +58,9 @@ The Golden PCTO application can be used with all devices as long as they are con
 1. Enter Goldenpcto.000webhostapp.com in URL bar. The login screen will be brought up.
 2. Enter your Spaggiari credentials.
 3. Tap the Login button.
-4. S ![](RackMultipart20200416-4-1sj5h06_html_5228f27a13fa1071.jpg)
- earch something with the search bar.
+4. Search something with the search bar.
 
-1. ![](RackMultipart20200416-4-1sj5h06_html_2b6a5f96c04671a5.png)
- Companies that meet the search criteria will be shown.
+1. Companies that meet the search criteria will be shown.
 
 # 5 Troubleshooting
 
