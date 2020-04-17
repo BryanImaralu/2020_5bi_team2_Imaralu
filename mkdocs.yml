@@ -8,7 +8,8 @@ nav:
     - 'Business Model Canvas': 'business_model_canvas.pdf'
     - 'Test Case Specification': 'Test_Case_Specification.md'
     - 'System Requirements Documentation': 'documentation_gruia_1.md'
-    - 'Project Closure Report': 'Project Closure Report'
+    - 'Project Closure Report': 'Project_Closure_Report.pdf' 
+    - 'Project Success Criteria': 'Project_Success_Criteria.md'
     
     
 theme:
