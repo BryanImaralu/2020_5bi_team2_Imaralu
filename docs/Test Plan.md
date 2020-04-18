@@ -17,34 +17,6 @@
 
 
 
-**TABLE OF CONTENTS**
-
-|   |
-| --- |
-| IDENTIFIER |
-| INTRODUCTION |
-| Test Specifications |
-| Test Reports |
-| Project Plan |
-| Quality Assurance Plan |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # IDENTIFIER
@@ -166,7 +138,7 @@ Testing will occur at each phase of the development process. Test cases are outl
 Human resources:  Bryan Imaralu
                   Giovanni Gottardi
                   Edoardo Gruia
-                  Nicolò Salaorni
+                  NicolÃ² Salaorni
 
 Material: php using Atom for development, Localhost xampp, Microsoft Word (.doc) and WordPad
           (.md) for documentation
