@@ -20,19 +20,19 @@ The Golden Boy PCTO application allows users a simple interface to access compan
 
 # 2 Quick Start Guide
 
-![](/img/login1.JPG)
-
 1. Enter Goldenpcto.000webhostapp.com in URL bar. The login screen will be brought up.
 
+![](/img/login1.JPG)
 
-1. Enter your Spaggiari credentials.
+2. Enter your Spaggiari credentials.
 
+![](/img/login2.JPG)
 
+3. Tap the Login button.
 
-1. Tap the Login button.
-2. Every information about companies will be show.
+4. Every information about companies will be show.
 
-
+![](/img/anagrafica.JPG)
 
 # 3 System Requirements
 
@@ -49,7 +49,7 @@ The Golden PCTO application can be used with all devices as long as they are con
 5. Companies that meet the search criteria will be shown.
 6. If you click on the company, you can see its details.
 
-
+![](/img/dettagli1.JPG)
 
 # 5 Troubleshooting
 
