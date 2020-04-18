@@ -32,7 +32,7 @@ The Golden Boy PCTO application allows users a simple interface to access compan
 
 4. Every information about companies will be show.
 
-
+![](/img/anagrafica.JPG)
 
 # 3 System Requirements
 
