@@ -1,4 +1,4 @@
-# **Golden PCTO User Guide**
+# **Golden PCTO User Guide***
 
 # **Golden Boys Team**
 
@@ -10,7 +10,7 @@ Bryan Imaralu
 
 Giovanni Gottardi
 
-Nicolò Salaorni
+NicolÃ² Salaorni
 
 Edoardo Gruia
 
