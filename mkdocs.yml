@@ -13,7 +13,6 @@ nav:
     - 'Project Success Criteria': 'Project_Success_Criteria.md'
     - 'Data Processing Agreement': 'DPA.pdf'
     - 'User Guide': 'User guide.md'
-    - 'Test Plan': 'Test_Plan.md
-       
+    - 'Test Plan': 'Test_Plan.md'
 theme:
     name: readthedocs
