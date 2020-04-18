@@ -1,8 +1,4 @@
-# Test Case Specification
-
-# For
-
-# PCTO Application
+# Test Case Specification for PCTO Application
 
 March 10, 2020
 
