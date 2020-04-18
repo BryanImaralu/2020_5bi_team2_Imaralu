@@ -12,6 +12,13 @@ nav:
     - 'Project Success Criteria': 'Project_Success_Criteria.md'
     - 'Data Processing Agreement': 'DPA.pdf'
     - 'User Guide': 'User guide.md'
+    - 'Iteration n1': 'Iteration#1.md'
+    - 'Iteration n2': 'Iteration#2.md'
+    - 'Iteration n3': 'Iteration#3.md'
+    - 'Release Plan': 'Release_Plan.md'
+    - 'Test Plan': 'Test_Plan.md
+'
+    
     
     
 theme:
