@@ -14,20 +14,6 @@ Nicolò Salaorni
 
 Edoardo Gruia
 
-# Contents
-
-Contents..................................2
-
-1 Introduction........................3
-
-2 Quick Start Guide..............3
-
-3 System Requirements......5
-
-4 Main Scenarios of Use.....5
-
-5 Troubleshooting.................7
-
 # 1 Introduction
 
 The Golden Boy PCTO application allows users a simple interface to access company information from their Spaggiari account and from any device. This document will provide instructions for using the application to view its functionality.
@@ -53,7 +39,7 @@ The Golden PCTO application can be used with all devices as long as they are con
 
 # 4 Main Scenarios of Use
 
-## 4.1 Aplication View
+## 4.1 Application View
 
 1. Enter Goldenpcto.000webhostapp.com in URL bar. The login screen will be brought up.
 2. Enter your Spaggiari credentials.
