@@ -11,7 +11,7 @@ nav:
     - 'Project Closure Report': 'Project_Closure_Report.pdf' 
     - 'Project Success Criteria': 'Project_Success_Criteria.md'
     - 'Data Processing Agreement': 'DPA.pdf'
-    
+    - 'User Guide': 'User Guide.md'
     
     
 theme:
