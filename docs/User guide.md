@@ -57,4 +57,3 @@ The Golden PCTO application can be used with all devices as long as they are con
 
 If the credentials entered are incorrect, you will be redirected to the login page.
 
-
