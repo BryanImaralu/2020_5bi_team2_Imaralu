@@ -13,10 +13,7 @@ nav:
     - 'Data Processing Agreement': 'DPA.pdf'
     - 'User Guide': 'User guide.md'
     - 'Test Plan': 'Test_Plan.md
-    - 'Release Plan': 'Release_Plan.md'
-    
-    
-    
+    - 'Release Plan': 'Release_Plan.md'    
 theme:
     name: readthedocs
 
