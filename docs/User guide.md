@@ -1,4 +1,4 @@
-# **Golden PCTO User Guide***
+# **Golden PCTO User Guide**
 
 # **Golden Boys Team**
 
