@@ -20,6 +20,8 @@ The Golden Boy PCTO application allows users a simple interface to access compan
 
 # 2 Quick Start Guide
 
+![](img/login1.JPG)
+
 1. Enter Goldenpcto.000webhostapp.com in URL bar. The login screen will be brought up.
 
 
