@@ -1,11 +1,12 @@
 site_name: 2020_5BI_Team2
 
 nav:
-    - 'Project Charter': 'Project_Charter.md'
-    - 'Software Requirements Specification': 'software_requirements_specification.md'
-    - 'Software Project Management Plan': 'Software_Project_Management_Plan.md'
-    - 'Project Model': 'Project_Model.pdf'
-    - 'Business Model Canvas': 'business_model_canvas.pdf'
+    - 'December':
+        - 'Project Charter': 'Project_Charter.md'
+        - 'Software Requirements Specification': 'software_requirements_specification.md'
+        - 'Software Project Management Plan': 'Software_Project_Management_Plan.md'
+        - 'Project Model': 'Project_Model.pdf'
+        - 'Business Model Canvas': 'business_model_canvas.pdf'
     - 'April':
         - 'Release Plan': 'Release_Plan.md' 
         - 'Iteration Plan': 'Iteration#3.md'
