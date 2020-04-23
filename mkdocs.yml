@@ -16,6 +16,6 @@ nav:
         - 'Test Case Specification': 'Test_Case_Specification.md'
         - 'User Guide': 'User guide.md'
         - 'System Requirements Documentation': 'documentation_gruia_1.md'
-        - 'Data Processing Agreement': 'DPA.ma'        
+        - 'Data Processing Agreement': 'DPA.md'        
 theme:
     name: readthedocs
