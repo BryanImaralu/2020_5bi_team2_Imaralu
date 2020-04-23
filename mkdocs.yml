@@ -9,7 +9,6 @@ nav:
         - 'Business Model Canvas': 'business_model_canvas.pdf'
     - 'April':
         - 'Release Plan': 'Release_Plan.md' 
-        - 'Iteration Plan': 'Iteration#3.md'
         - 'Project Success Criteria': 'Project_Success_Criteria.md'
         - 'Project Closure Report': 'Project_Closure_Report.pdf'
         - 'Status Report': 'Status_Report.pdf' 
@@ -17,6 +16,6 @@ nav:
         - 'Test Case Specification': 'Test_Case_Specification.md'
         - 'User Guide': 'User guide.md'
         - 'System Requirements Documentation': 'documentation_gruia_1.md'
-        - 'Data Processing Agreement': 'DPA.pdf'        
+        - 'Data Processing Agreement': 'DPA.ma'        
 theme:
     name: readthedocs
