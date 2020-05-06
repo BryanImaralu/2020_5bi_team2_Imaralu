@@ -19,15 +19,10 @@ nav:
         - 'System Requirements Documentation': 'documentation_gruia_1.md'
         - 'Data Processing Agreement': 'DPA.md'
      - 'PDF': 
-        - 'Release Plan': ''
-        - 'Iteration Plan': ''
         - 'Project Success Criteria': 'Project_Success_Criteria.pdf'
         - 'Project Closure Report': 'Project_Closure_Report.pdf'
         - 'Status Report': 'Status_Report.pdf' 
-        - 'Test Plan': ''
         - 'Test Case Specification': 'Test_Case_Specification.pdf'
-        - 'User Guide': ''
-        - 'System Requirements Documentation': ''
         - 'Data Processing Agreement': 'DPA.pdf'
 theme:
     name: readthedocs
