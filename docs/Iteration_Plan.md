@@ -1,4 +1,4 @@
-# Iteration #1 Plan
+# Iteration #1
 
 1/1/2020 – 1/18/2020
 
@@ -24,7 +24,7 @@ The purpose of this iteration is to create a working skeleton of the app. At the
 - UC2: Make a summary about all request of the customer
 - UC3: Create a to do list to organize the work and complete the documentation repository
 
-# Iteration #2 Plan
+# Iteration #2
 
 1/20/2020 – 2/16/2020
 
@@ -59,7 +59,7 @@ The following use cases are involved in this iteration:
 | Correct the excel data | 2 | 2 | 2/8 | 2/10 | Nicolò | Finished |
 | Populate the Database | 1 | 1 | 2/12 | 2/16 | Giovanni | Finished |
 
-# Iteration #3 Plan
+# Iteration #3
 
 2/17/2020 – 4/5/2020
 
