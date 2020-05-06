@@ -1,5 +1,3 @@
-# PCTO
-
 # Iteration #1 Plan
 
 1/1/2020 – 1/18/2020
