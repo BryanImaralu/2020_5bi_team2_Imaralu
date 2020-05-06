@@ -26,8 +26,6 @@ The purpose of this iteration is to create a working skeleton of the app. At the
 - UC2: Make a summary about all request of the customer
 - UC3: Create a to do list to organize the work and complete the documentation repository
 
-# PTCO
-
 # Iteration #2 Plan
 
 1/20/2020 – 2/16/2020
@@ -62,8 +60,6 @@ The following use cases are involved in this iteration:
 | Create the ETL python file | 3 | 4 | 1/28 | 2/6 | Bryan | Finished |
 | Correct the excel data | 2 | 2 | 2/8 | 2/10 | Nicolò | Finished |
 | Populate the Database | 1 | 1 | 2/12 | 2/16 | Giovanni | Finished |
-
-# PCTO
 
 # Iteration #3 Plan
 
