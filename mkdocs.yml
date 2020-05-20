@@ -19,6 +19,11 @@ nav:
         - 'System Requirements Documentation': 'documentation_gruia_1.md'
         - 'Data Processing Agreement': 'DPA.md'
     - 'PDF':
+        - 'Project Charter': 'Project_Charter.pdf'
+        - 'Software Requirements Specification': 'software_requirements_specification.pdf'
+        - 'Software Project Management Plan': 'Software_Project_Management_Plan.pdf'
+        - 'Project Model': 'Project_Model.pdf'
+        - 'Business Model Canvas': 'business_model_canvas.pdf'
         - 'Release Plan': 'Release_Plan.pdf' 
         - 'Iteration Plan': 'Iteration_Plan.pdf'
         - 'Project Success Criteria': 'Project_Success_Criteria.pdf'
