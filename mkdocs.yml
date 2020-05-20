@@ -31,7 +31,7 @@ nav:
         - 'Status Report': 'Status_Report.pdf'
         - 'Test Plan': 'Test Plan.pdf'
         - 'Test Case Specification': 'Test_Case_Specification.pdf'
-        - 'User Guide': 'User guide.md'
+        - 'User Guide': 'User guide.pdf'
         - 'System Requirements Documentation': 'System_Requirements_Documentation.pdf'
         - 'Data Processing Agreement': 'DPA.pdf'
 theme:
