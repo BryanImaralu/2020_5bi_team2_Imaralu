@@ -14,10 +14,10 @@ Bryan Imaralu, Giovanni Gottardi, Nicolò Salaorni, Edoardo Gruia
 
 ### Change History
 
-| Revision | Change Date | Description of changes |
-| --- | --- | --- |
-| V1.0 | 05/01/&#39;20 | Initial release |
-|   |   |   |
+| Revision | Change Date | Description of changes | Author |
+| --- | --- | --- | --- |
+| V1.0 | 05/01/&#39;20 | Initial release | Giovanni Gottardi |
+|   |   |   |   |
 
 ### Document Storage
 
