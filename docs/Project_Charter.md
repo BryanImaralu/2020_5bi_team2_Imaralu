@@ -1,5 +1,5 @@
-Project Charter
-##### Team Members
+#Project Charter
+#### Team Members
 
 Bryan Imaralu, Giovanni Gottardi, Nicolò Salaorni, Edoardo Gruia
 
